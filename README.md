@@ -4,13 +4,13 @@ Simple function tree runner for Vuex, based on ideas from Cerebral signals.
 
 ### Instalation
 
-``` 
+```
 npm install vuex-signal --save
 ```
 
 ### Getting started
 
-```
+```javascript
 const signal = require('vuex-signal');
 const store = require('./vuexStore');
 
