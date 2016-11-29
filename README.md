@@ -2,7 +2,7 @@
 
 Simple function tree runner for Vuex, based on ideas from Cerebral signals.
 
-### Instalation
+### Installation
 
 ```
 npm install vuex-signal --save
