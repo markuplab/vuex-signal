@@ -1,0 +1,33 @@
+{
+  "name": "vuex-signal",
+  "version": "1.0.0",
+  "description": "Vuex signal runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab -l"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/markuplab/vuex-signal.git"
+  },
+  "keywords": [
+    "vuex",
+    "vue",
+    "function",
+    "tree",
+    "signal",
+    "flow"
+  ],
+  "author": "k.kaysarov <defcuts@mail.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markuplab/vuex-signal/issues"
+  },
+  "homepage": "https://github.com/markuplab/vuex-signal#readme",
+  "devDependencies": {
+    "sinon": "^1.17.6"
+  },
+  "dependencies": {
+    "lab": "^11.2.1"
+  }
+}
