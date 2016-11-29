@@ -1,4 +1,6 @@
-## Vuex Signal
+## Vuex Signal 
+
+[![Build Status](https://travis-ci.org/markuplab/vuex-signal.svg?branch=master)](https://travis-ci.org/markuplab/vuex-signal)
 
 Simple function tree runner for Vuex, based on ideas from Cerebral signals.
 
