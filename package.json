@@ -25,9 +25,7 @@
   },
   "homepage": "https://github.com/markuplab/vuex-signal#readme",
   "devDependencies": {
-    "sinon": "^1.17.6"
-  },
-  "dependencies": {
+    "sinon": "^1.17.6",
     "lab": "^11.2.1"
   }
 }
